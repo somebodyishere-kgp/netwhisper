@@ -1,0 +1,5 @@
+{
+  "name": "NetWhisper",
+  "description": "A modern network packet analyzer and translator that turns complex network traffic into human-readable insights using AI.",
+  "requestFramePermissions": []
+}
